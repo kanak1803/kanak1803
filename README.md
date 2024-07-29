@@ -1,7 +1,7 @@
 # Hello there, I'm Kanak ! 👋  
 
 # About Me  
-I am a passionate fullstack developer with a strong interest in learning new technologies and building projects. I recently started my journey in full-stack development with a focus on Next.js. I believe in **learning by doing** and love to explore how things work.  
+I am a passionate fullstack developer with a strong interest in learning new technologies and building projects. I  started my journey in full-stack development with a focus on Next.js and React. I believe in **learning by doing** and love to explore how things work.  
 
 # Tech Stack
 langauge : JavaScript,TypeScript.  
