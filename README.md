@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hello there, I'm Kanak ! 👋  
+
+# About Me  
+I am a passionate fullstack developer with a strong interest in learning new technologies and building projects. I recently started my journey in full-stack development with a focus on Next.js. I believe in **learning by doing** and love to explore how things work.  
+
+# Tech Stack
+langauge : JavaScript,TypeScript.  
+Frameworks : NextJs,React.  
+Tools : Git, npm, VS Code, Postman 
+
+I am currrently learning App development using React Native Expo.And looking for **Fullstack developer job or internship**  
+
+## Contact Me
+Feel free to reach out to me via:
+ **Email**: kanak1803@gmail.com
+ 
 
 <!--
 **kanak1803/kanak1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
