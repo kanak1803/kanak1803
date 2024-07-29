@@ -8,7 +8,7 @@ langauge : JavaScript,TypeScript.
 Frameworks : NextJs,React.  
 Tools : Git, npm, VS Code, Postman 
 
-## I am currrently learning App development using React Native Expo.And looking for **Fullstack developer job or internship**.  
+## I am currrently looking for **Fullstack developer job or internship**. And learning App development using React Native Expo.    
 
 ## Contact Me
 Feel free to reach out to me via:
