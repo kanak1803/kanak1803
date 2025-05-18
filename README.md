@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Featured Projects
+<!-- ### 🚀 Featured Projects
 
 <details>
 <summary><b>🛒 E-Commerce Platform</b></summary>
@@ -48,19 +48,21 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 <b>Tech Stack:</b> React, Tailwind CSS, Framer Motion
 <br>
 <b>Live Demo:</b> <a href="https://your-project-url.com">View Demo</a> | <a href="https://github.com/kanak1803/project-name">View Code</a>
-</details>
+</details> -->
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 👨‍💻 Languages & Markup
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 #### ⚛️ Frontend
+
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
@@ -71,6 +73,7 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### 🛠️ Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
@@ -79,6 +82,7 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 ![REST API](https://img.shields.io/badge/REST%20API-000?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### 🧰 Tools & Platforms
+
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
@@ -103,6 +107,7 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 ---
 
 ### 🏆 Achievements
+
 - 🥇 Completed the "JavaScript Algorithms and Data Structures" certification on FreeCodeCamp
 - 🏅 Participated in [Hackathon/Coding Competition Name] 2023
 - 🌟 Contributed to open-source projects including [Project Name]
