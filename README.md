@@ -120,5 +120,5 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
   <a href="https://kanak1803-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=safari&logoColor=white"/></a>
 </p>
 
----
+
 
