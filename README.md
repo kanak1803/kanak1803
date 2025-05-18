@@ -122,6 +122,3 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/kanak1803">kanak1803</a></p>
-
-
