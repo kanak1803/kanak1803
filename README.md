@@ -107,9 +107,9 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 
 ### 🏆 Achievements
 
-- 🥇 Completed the "JavaScript Algorithms and Data Structures" certification on FreeCodeCamp
-- 🏅 Participated in [Hackathon/Coding Competition Name] 2023
-- 🌟 Contributed to open-source projects including [Project Name]
+- 🥇 Completed the "MERN Stack Development" certification at 3RI Technologies
+- 💼 Successfully completed multiple freelance web development projects for clients
+
 
 ---
 
@@ -117,9 +117,8 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 
 <p align="center">
   <a href="mailto:kanak1803@gmail.com"><img src="https://img.shields.io/badge/Email-kanak1803%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kanak-ramapure/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kanak1803-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=safari&logoColor=white"/></a>
 </p>
 
 ---
