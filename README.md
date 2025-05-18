@@ -123,3 +123,15 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 ---
 
 <p align="center">⭐️ From <a href="https://github.com/kanak1803">kanak1803</a></p>
+
+
+<details>
+  <summary><b>📊 Programming Language Distribution</b></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanak1803&layout=pie&theme=radical" alt="Language Distribution" />
+  </div>
+</details>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kanak1803&theme=react-dark" alt="Contribution Graph" />
+</p>
