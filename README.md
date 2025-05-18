@@ -50,7 +50,6 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 <b>Live Demo:</b> <a href="https://your-project-url.com">View Demo</a> | <a href="https://github.com/kanak1803/project-name">View Code</a>
 </details> -->
 
----
 
 ### 🛠️ Tech Stack
 
