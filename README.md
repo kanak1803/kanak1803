@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer crafting responsive & intuitive web experiences | MERN Specialist 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanak1803&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kanak1803&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -12,6 +12,7 @@
 - 🔭 I'm currently learning **React Native with Expo** for cross-platform mobile development
 - 🌱 Building **scalable web applications** with React, Next.js, and Node.js
 - 💼 Open to **Full Stack Developer roles** and exciting collaborations
+- 🤝 Available for freelance projects - feel free to reach out with your requirements!
 - 💬 Ask me about **JavaScript, React, Next.js, and building responsive UIs**
 - 🚀 Passionate about clean code and performance optimization
 - 📚 Believer in continuous learning and staying updated with latest tech trends
@@ -49,7 +50,6 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 <br>
 <b>Live Demo:</b> <a href="https://your-project-url.com">View Demo</a> | <a href="https://github.com/kanak1803/project-name">View Code</a>
 </details> -->
-
 
 ### 🛠️ Tech Stack
 
@@ -109,7 +109,6 @@ A modern, responsive portfolio showcasing my projects and skills with dark/light
 
 - 🥇 Completed the "MERN Stack Development" certification at 3RI Technologies
 - 💼 Successfully completed multiple freelance web development projects for clients
-
 
 ---
 
